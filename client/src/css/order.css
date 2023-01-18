@@ -1,0 +1,79 @@
+.remark-area {
+    word-wrap: break-word;
+    /* max-width: 200px; */
+    width: 25%;
+    font-size: 1rem;
+    text-align: left ;
+}
+
+
+.product-area {
+    word-wrap: break-word;
+    max-width: 10px;
+    /* width: 20%; */
+    font-size: 0.8rem;
+    text-align: left ;
+}
+
+.Pending-color {
+    background-color: #f52f2f !important;
+    text-shadow: 3px 3px 4px rgb(167, 167, 167);
+    color: white ;
+    /* color: #f52f2f ; */
+    /* text-shadow: 3px 3px 4px rgb(167, 167, 167); */
+    text-transform: uppercase;
+    font-weight: bolder;
+    font-size: 1.5rem;
+    
+}
+
+.Packed-color {
+    background-color: #ffd000 !important;
+    text-shadow: 3px 3px 4px rgb(0, 0, 0);
+    color: white ;
+    /* text-shadow: 3px 3px 4px rgb(167, 167, 167); */
+    text-transform: uppercase;
+    font-weight: bolder;
+    font-size: 1.5rem;
+
+}
+
+.Departed-color {
+    background-color: #ffd000 !important;
+    text-shadow: 3px 3px 4px rgb(0, 0, 0);
+    color: white ;
+    /* text-shadow: 3px 3px 4px rgb(167, 167, 167); */
+    text-transform: uppercase;
+    font-weight: bolder;
+    font-size: 1.5rem;
+
+}
+
+.Delivered-color {
+    text-shadow: 3px 3px 4px rgb(167, 167, 167);
+    text-transform: uppercase;
+    font-weight: bolder;
+    font-size: 1.5rem;
+
+}
+.ean-code {
+    width: 10%;
+    /* max-width: 20px; */
+    font-size: 1.5rem;
+}
+.date {
+    max-width: 20px;
+    font-size: 1.3rem;
+}
+.num {
+    width: 1%;
+}
+.qty {
+    width: 1%;
+}
+.sid {
+    width: 2%;
+}
+.delivery {
+    width: 5%;
+}

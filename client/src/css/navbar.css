@@ -1,0 +1,37 @@
+.pointer {
+    cursor: pointer;
+}
+.flag {
+    width: 30px;
+    margin-left: 10px;
+    margin-top: 3px;
+    /* margin-left: 1%; */
+}
+.flag:hover {
+    width: 35px;
+}
+
+
+.filter-form {
+    /* position: absolute; */
+    /* right: 80px; */
+    /* margin-right: 500px; */
+    /* margin-top: 1144px; */
+  
+  }
+  
+  .filter {
+    width: 5rem;
+    transition: 1s;
+    opacity: 0.5;
+    /* margin-top: 800px; */
+    right: 90px;
+    margin-top: -18px;
+    position: fixed;
+  }
+  
+  
+  .filter:focus {
+    width: 15rem;
+    opacity: 1;
+  }
